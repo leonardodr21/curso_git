@@ -10,4 +10,6 @@ rm -rf .git --> torna a pasta git em uma pasta comun novamente
 
 git status --> mostra o status do git
 git add nome_arquivo --> adiciona o arquivo para ser committed/salvo
- 
+git commit -m "mensagem para adicionar no commit como descrição"
+git config --global user.email "exemplo@email.com" --> adiciona email que vai ser utilizado para assinar os commit sem isso não funciona
+git config --global user.name "exemplo" --> adiciona seu nome 
