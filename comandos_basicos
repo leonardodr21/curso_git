@@ -7,7 +7,7 @@ mkdir nome_da_sua_pasta --> cria uma nova pasta
 cat nome_arquivo --> mostra o conteudo
 git init . --> torna a pasta em um repositorio de git
 rm -rf .git --> torna a pasta git em uma pasta comun novamente 
-
+rm --> remove arquivo ou diretorio
 git status --> mostra o status do git
 git add nome_arquivo --> adiciona o arquivo para ser committed/salvo
 git commit -m "mensagem para adicionar no commit como descrição"
