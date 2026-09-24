@@ -15,4 +15,5 @@ git commit -m "mensagem para adicionar no commit como descrição"
 git config --global user.email "exemplo@email.com" --> adiciona email que vai ser utilizado para assinar os commit sem isso não funciona
 git config --global user.name "exemplo" --> adiciona seu nome 
 nano nome_arquivo --> abre editor de texto dentro do bash 
-git log --> mostra as informações dos salvamentos como autor data e sua mensagem  
+git log --> mostra as informações dos salvamentos como autor data e sua mensagem 
+git add . --> adiciona para fazer commit todos arquivos da pasta atual 
