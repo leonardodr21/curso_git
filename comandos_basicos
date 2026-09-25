@@ -29,3 +29,4 @@ touch nome_novo_arquivo --> criar um arquivo em branco
 git push origin nome_da_branch --> envia as informações da branch local para o github
 git pull origin main --> recebe as informações da main do github na branch atual similar ao merge porém remoto
 git clone link_do_fork --> copia os dados do repositorio remoto/github para o computador local 
+git fetch --> copia a branch que existe no github 
