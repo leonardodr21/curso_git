@@ -1,1 +1,10 @@
-cria branche nova 
+## Fluxo de trabalho
+1. Criar diretorio (pasta) do projeto
+2. iniciar git dentro do diretorio (git init .)
+3. editar our criar arquivos 
+4. git status
+5. git add nome_arquivo/. ponto pode ser utilizado para adicionar todos os arquivos da pasta atual para o commit
+6. git status 
+7. git commit -m "mensagem enviada no commit"
+8. git status
+9. retorna ao passo 3

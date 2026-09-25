@@ -25,3 +25,5 @@ git branch --> mostra a branch atual
 git checkout nome_branch --> altera branch
 git merge nome_branch --> mescla as alterações na branch citada com a branch atual  
 git branch -d nome_branch --> exclui a branch citada
+touch nome_novo_arquivo --> criar um arquivo em branco
+git push origin main --> envia as informações da main local para a main do github
