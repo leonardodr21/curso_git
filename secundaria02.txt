@@ -1,3 +1,0 @@
-arquivo txt criado para testar conflitos durante merge
-
-
