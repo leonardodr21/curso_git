@@ -14,7 +14,7 @@
 13. git status
 14. retorna ao passo 3
 
-##Fluxo de trabalho Github <> (projetos open-source)
+## Fluxo de trabalho Github <> (projetos open-source)
 1. fork do projeto para seu próprio github
 2. git clone <endereco do projeto fork>
 3. git checkout -b <nova_branch>
