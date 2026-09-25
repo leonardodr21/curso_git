@@ -1,5 +1,4 @@
 ## fluxo sobre branches
-![fluxo de branches](fluxo.png)
 A partir da `main`, é criada uma branch `develop`, que servirá como base para as próximas branches.
 
 As próximas branches serão criadas a partir da `develop`.
@@ -8,13 +7,14 @@ Quando o trabalho de uma branch for finalizado, deverá ser realizado um merge c
 
 Somente quando a `develop` estiver mais robusta, estável e sem erros ou bugs, deverá ser realizado o merge com a `main`.
 
-A imagem acima busca representar esse fluxo:
+A imagem abaixo busca representar esse fluxo:
 
 * **Círculo:** representa um commit.
 * **Linha azul:** representa um checkout.
 * **Linha verde:** representa um merge.
 * **Linha preta:** representa a transição entre commits.
 
+![fluxo de branches](fluxo.png)
 
 ## Prefixos padrões das branches
 docs: apenas mudanças de documentação;
