@@ -17,3 +17,4 @@ git config --global user.name "exemplo" --> adiciona seu nome
 nano nome_arquivo --> abre editor de texto dentro do bash 
 git log --> mostra as informações dos salvamentos como autor data e sua mensagem 
 git add . --> adiciona para fazer commit todos arquivos da pasta atual 
+git mv nome_antigo nome_novo --> renomear um arquivo
