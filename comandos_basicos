@@ -18,3 +18,8 @@ nano nome_arquivo --> abre editor de texto dentro do bash
 git log --> mostra as informações dos salvamentos como autor data e sua mensagem 
 git add . --> adiciona para fazer commit todos arquivos da pasta atual 
 git mv nome_antigo nome_novo --> renomear um arquivo
+git diff nome_arquivo --> mostra a diferença do estado atual para a ultima versão salva
+git reset nome_arquivo --> remove um arquivo que foi staged pelo git add 
+git checkout -b nome_branch --> cria um nova branch e altera a posição para a nova branch
+git branch --> mostra a branch atual
+git checkout nome_branch --> altera branch
