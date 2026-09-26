@@ -32,5 +32,5 @@ git clone link_do_fork --> copia os dados do repositorio remoto/github para o co
 git fetch --> copia a branch que existe no github 
 git revert id_commit --> reverte as alterações feitas no commit. funciona em qualquer commit da linha do tempo. git log para encontrar o id do commit
 git reset --soft id_commit  -->  volta para a mesma versão do "id_commit" porém deixando todas as alterações feitas após ele em fase de stagging, prontas para serem commitadas
-git reset --mixed id_commit  --> redefine o staging para o estado que estava no "id_commit". todas as alterações desfeitas no índice de stagging irão continuar no diretório de trabalho.  vem como padrão caso não nenhum argumento
+git reset --mixed id_commit  --> redefine o staging para o estado que estava no "id_commit". todas as alterações desfeitas no índice de stagging irão continuar no diretório de trabalho.  vem como padrão caso não tenha nenhum argumento
 git reset --hard id_commit  --> todos os commits/alterações feitas após o "id_commit" serão deletadas
