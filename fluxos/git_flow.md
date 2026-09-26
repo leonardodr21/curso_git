@@ -14,7 +14,7 @@ A imagem abaixo busca representar esse fluxo:
 * **Linha verde:** representa um merge.
 * **Linha roxa:** representa a transição entre commits.
 
-![fluxo de branches](imgs/fluxo.png)
+![fluxo de branches](../imgs/fluxo.png)
 
 ## Prefixos padrões das branches
 * **docs:** apenas mudanças na documentação;
