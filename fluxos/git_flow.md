@@ -12,7 +12,7 @@ A imagem abaixo busca representar esse fluxo:
 * **Círculo:** representa um commit.
 * **Linha azul:** representa um checkout.
 * **Linha verde:** representa um merge.
-* **Linha preta:** representa a transição entre commits.
+* **Linha roxa:** representa a transição entre commits.
 
 ![fluxo de branches](imgs/fluxo.png)
 
